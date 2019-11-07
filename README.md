@@ -1,1 +1,1 @@
-# configs
+# nix-config
